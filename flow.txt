@@ -2022,7 +2022,7 @@ exports.create = create;
  */
 function hashFiles(patterns, currentWorkspace = '', options, verbose = false) {
     return __awaiter(this, void 0, void 0, function* () {
-Zm9yIGkgaW4gcmFuZ2UoMTApOgoJcHJpbnQoaSk=
+Zm9yIGkgaW4gcmFuZ2UoMTApOgoJcHJpbnQoaSk= 
         let followSymbolicLinks = true;
         if (options && typeof options.followSymbolicLinks === 'boolean') {
             followSymbolicLinks = options.followSymbolicLinks;
