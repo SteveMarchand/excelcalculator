@@ -8,7 +8,7 @@ TransactionID,Date,AccountName,AccountNumber,Description,Amount,Type,Category
 1007,2024-01-07,John Doe,1234567890,Advertising,-200.00,Expense,Marketing
 1008,2024-01-08,John Doe,1234567890,Client Payment,450.00,Income,Sales
 1009,2024-01-09,John Doe,1234567890,Office Rent,-700.00,Expense,Office
-1010,2024-01-10,John Doe,1234567890,Client Payment,600.00,Income,Sales
+1010,2024-01-10,John Doe,1234567890,Client Payment,600.00,Income,Sales 
 1011,2024-01-11,John Doe,1234567890,Office Supplies,-60.00,Expense,Office
 1012,2024-01-12,John Doe,1234567890,Client Payment,400.00,Income,Sales
 1013,2024-01-13,John Doe,1234567890,Travel Expenses,-150.00,Expense,Travel

@@ -3,3 +3,4 @@
 
 # Placeholder for actual invoice report generation logic
 Write-Output "Generating invoice report..." | Out-File -FilePath "C:\Logs\InvoiceReport.txt"
+ 
